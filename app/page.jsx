@@ -533,7 +533,7 @@ function EmptyState({ onChip }) {
             letterSpacing: "-0.5px",
           }}
         >
-          Hi! I'm <span style={{ color: C.primary }}>Lexie</span>
+          Hi i'm <span style={{ color: C.primary }}>Lexie</span>
         </p>
         <p style={{ fontSize: 13, color: C.onSurfaceVar, margin: 0 }}>
           Your AI assistant for Language Chat — ask me anything about courses,
